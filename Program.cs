@@ -231,7 +231,7 @@
 //     static void Main(string[] args)
 //     {
 //         Program obj = new Program();
-//         Program obj = Program.CreateInstance();
+       
 //         obj.ShowMessage(); 
 //     }
 // }
@@ -267,3 +267,4 @@
 //         Console.WriteLine("Method 2");
 //     }
 // }
+//---------------------------------------------------------------------------------------------------
