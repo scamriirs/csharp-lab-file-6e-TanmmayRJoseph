@@ -1,8 +1,9 @@
 //Q1) write a program to show the use of interface
+
 // using System;
 
 // interface Bank {
-//     void roi();  // Removed 'public'
+//     void roi();  
 // }
 
 // class icici : Bank {
