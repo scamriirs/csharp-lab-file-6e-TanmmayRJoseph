@@ -1,54 +1,63 @@
-//Q1)write a program to automate the admission offer letter generation
-
-/*
-name,course,year,fees of the student will vary individually
-but
-college name,address,brading,disclaimer will be same
-*/
-
 using System;
 
-class AdmissionOfferLetter
+abstract class OfferLetters
 {
-    static string collegeName = "XYZ Institute of Technology";
-    static string collegeAddress = "123 Main Street, City, Country";
-    static string branding = "Shaping the Future Through Excellence";
-    static string disclaimer = "This is a system-generated letter and does not require a signature.";
-
-    static void GenerateOfferLetter(string name, string course, int year, double fees)
+    public abstract string Name(string name);
+    
+    public string Designation(string designation)
     {
-        Console.WriteLine("--------------------------------------------------");
-        Console.WriteLine($"           {collegeName}");
-        Console.WriteLine($"           {collegeAddress}");
-        Console.WriteLine($"           {branding}");
-        Console.WriteLine("--------------------------------------------------");
-        Console.WriteLine($"Date: {DateTime.Now.ToShortDateString()}");
-        Console.WriteLine();
-        Console.WriteLine($"Dear {name},");
-        Console.WriteLine($"Congratulations! We are pleased to offer you admission to our {course} program for the academic year {year}.");
-        Console.WriteLine($"Your total fees for the course are: ${fees}");
-        Console.WriteLine();
-        Console.WriteLine("Please confirm your acceptance by the due date mentioned in the admission guidelines.");
-        Console.WriteLine();
-        Console.WriteLine($"Regards,");
-        Console.WriteLine($"Admissions Office");
-        Console.WriteLine($"{collegeName}");
-        Console.WriteLine();
-        Console.WriteLine($"Disclaimer: {disclaimer}");
-        Console.WriteLine("--------------------------------------------------");
+        return designation;
     }
 
+    public int Payment(int pay)
+    {
+        return pay;
+    }
+
+    public string CompanyName()
+    {
+        return "XYZ Corporation Pvt. Ltd.";
+    }
+
+    public string OfficeAddress()
+    {
+        return "512, Manhattan, NY";
+    }
+
+    public string CompanyBackground()
+    {
+        return "XYZ Corporation Pvt. Ltd. is a private and registered corporation operating in accordance with the laws provided by the State of New York.";
+    }
+
+    public string Disclaimer()
+    {
+        return "This letter and its contents are confidential in nature and are intended only for the recipient.\n" +
+               "If you are not the correct recipient, kindly return it immediately to " + CompanyName() + 
+               " and the Official Office.";
+    }
+}
+
+class Program
+{
     static void Main()
     {
-        Console.Write("Enter Student Name: ");
-        string name = Console.ReadLine();
-        Console.Write("Enter Course Name: ");
-        string course = Console.ReadLine();
-        Console.Write("Enter Admission Year: ");
-        int year = int.Parse(Console.ReadLine());
-        Console.Write("Enter Fees Amount: ");
-        double fees = double.Parse(Console.ReadLine());
+        Console.WriteLine("Offer Letter Details:");
+        Console.WriteLine("---------------------");
+        
+        // You can't instantiate an abstract class, so you need to create a derived class to use it
+        OfferLetterDetails offer = new OfferLetterDetails();
+        
+        Console.WriteLine("Company Name: " + offer.CompanyName());
+        Console.WriteLine("Office Address: " + offer.OfficeAddress());
+        Console.WriteLine("Company Background: " + offer.CompanyBackground());
+        Console.WriteLine("Disclaimer: " + offer.Disclaimer());
+    }
+}
 
-        GenerateOfferLetter(name, course, year, fees);
+class OfferLetterDetails : OfferLetters
+{
+    public override string Name(string name)
+    {
+        return name;
     }
 }
