@@ -1,0 +1,10 @@
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WindowsFormsApp1Lab\WindowsFormsApp1Lab\bin\Debug\WindowsFormsApp1Lab.exe.config
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WindowsFormsApp1Lab\WindowsFormsApp1Lab\bin\Debug\WindowsFormsApp1Lab.exe
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WindowsFormsApp1Lab\WindowsFormsApp1Lab\bin\Debug\WindowsFormsApp1Lab.pdb
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WindowsFormsApp1Lab\WindowsFormsApp1Lab\obj\Debug\WindowsFormsApp1Lab.csproj.AssemblyReference.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WindowsFormsApp1Lab\WindowsFormsApp1Lab\obj\Debug\WindowsFormsApp1Lab.Form1.resources
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WindowsFormsApp1Lab\WindowsFormsApp1Lab\obj\Debug\WindowsFormsApp1Lab.Properties.Resources.resources
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WindowsFormsApp1Lab\WindowsFormsApp1Lab\obj\Debug\WindowsFormsApp1Lab.csproj.GenerateResource.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WindowsFormsApp1Lab\WindowsFormsApp1Lab\obj\Debug\WindowsFormsApp1Lab.csproj.CoreCompileInputs.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WindowsFormsApp1Lab\WindowsFormsApp1Lab\obj\Debug\WindowsFormsApp1Lab.exe
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WindowsFormsApp1Lab\WindowsFormsApp1Lab\obj\Debug\WindowsFormsApp1Lab.pdb

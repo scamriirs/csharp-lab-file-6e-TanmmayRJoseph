@@ -1,0 +1,16 @@
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\bin\Debug\net8.0-windows\WinFormsApp1_26-03-2025.exe
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\bin\Debug\net8.0-windows\WinFormsApp1_26-03-2025.deps.json
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\bin\Debug\net8.0-windows\WinFormsApp1_26-03-2025.runtimeconfig.json
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\bin\Debug\net8.0-windows\WinFormsApp1_26-03-2025.dll
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\bin\Debug\net8.0-windows\WinFormsApp1_26-03-2025.pdb
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\obj\Debug\net8.0-windows\WinFormsApp1_26_03_2025.Form1.resources
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\obj\Debug\net8.0-windows\WinFormsApp1_26-03-2025.csproj.GenerateResource.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\obj\Debug\net8.0-windows\WinFormsApp1_26-03-2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\obj\Debug\net8.0-windows\WinFormsApp1_26-03-2025.AssemblyInfoInputs.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\obj\Debug\net8.0-windows\WinFormsApp1_26-03-2025.AssemblyInfo.cs
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\obj\Debug\net8.0-windows\WinFormsApp1_26-03-2025.csproj.CoreCompileInputs.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\obj\Debug\net8.0-windows\WinFormsApp1_26-03-2025.dll
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\obj\Debug\net8.0-windows\refint\WinFormsApp1_26-03-2025.dll
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\obj\Debug\net8.0-windows\WinFormsApp1_26-03-2025.pdb
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\obj\Debug\net8.0-windows\WinFormsApp1_26-03-2025.genruntimeconfig.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#kaam\WinFormsApp1_26-03-2025\WinFormsApp1_26-03-2025\obj\Debug\net8.0-windows\ref\WinFormsApp1_26-03-2025.dll

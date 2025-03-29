@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanmmay R Joseph\\OneDrive\\Desktop\\C#kaam\\WinFormsApp1ApplicationForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87D29DD3-4993-49A6-B7AA-044750BBC354}|WinFormsApp1ApplicationForm\\WinFormsApp1ApplicationForm.csproj|c:\\users\\tanmmay r joseph\\onedrive\\desktop\\c#kaam\\winformsapp1applicationform\\winformsapp1applicationform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D29DD3-4993-49A6-B7AA-044750BBC354}|WinFormsApp1ApplicationForm\\WinFormsApp1ApplicationForm.csproj|solutionrelative:winformsapp1applicationform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D29DD3-4993-49A6-B7AA-044750BBC354}|WinFormsApp1ApplicationForm\\WinFormsApp1ApplicationForm.csproj|c:\\users\\tanmmay r joseph\\onedrive\\desktop\\c#kaam\\winformsapp1applicationform\\winformsapp1applicationform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87D29DD3-4993-49A6-B7AA-044750BBC354}|WinFormsApp1ApplicationForm\\WinFormsApp1ApplicationForm.csproj|solutionrelative:winformsapp1applicationform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmmay R Joseph\\OneDrive\\Desktop\\C#kaam\\WinFormsApp1ApplicationForm\\WinFormsApp1ApplicationForm\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1ApplicationForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tanmmay R Joseph\\OneDrive\\Desktop\\C#kaam\\WinFormsApp1ApplicationForm\\WinFormsApp1ApplicationForm\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1ApplicationForm\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:38:47.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tanmmay R Joseph\\OneDrive\\Desktop\\C#kaam\\WinFormsApp1ApplicationForm\\WinFormsApp1ApplicationForm\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1ApplicationForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tanmmay R Joseph\\OneDrive\\Desktop\\C#kaam\\WinFormsApp1ApplicationForm\\WinFormsApp1ApplicationForm\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1ApplicationForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:36:43.343Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
