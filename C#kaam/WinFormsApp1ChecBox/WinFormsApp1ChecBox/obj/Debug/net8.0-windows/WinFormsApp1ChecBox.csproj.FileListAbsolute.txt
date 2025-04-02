@@ -1,0 +1,17 @@
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\bin\Debug\net8.0-windows\WinFormsApp1ChecBox.exe
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\bin\Debug\net8.0-windows\WinFormsApp1ChecBox.deps.json
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\bin\Debug\net8.0-windows\WinFormsApp1ChecBox.runtimeconfig.json
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\bin\Debug\net8.0-windows\WinFormsApp1ChecBox.dll
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\bin\Debug\net8.0-windows\WinFormsApp1ChecBox.pdb
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\obj\Debug\net8.0-windows\WinFormsApp1ChecBox.Form1.resources
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\obj\Debug\net8.0-windows\WinFormsApp1ChecBox.csproj.GenerateResource.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\obj\Debug\net8.0-windows\WinFormsApp1ChecBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\obj\Debug\net8.0-windows\WinFormsApp1ChecBox.AssemblyInfoInputs.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\obj\Debug\net8.0-windows\WinFormsApp1ChecBox.AssemblyInfo.cs
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\obj\Debug\net8.0-windows\WinFormsApp1ChecBox.csproj.CoreCompileInputs.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\obj\Debug\net8.0-windows\WinFormsApp1ChecBox.sourcelink.json
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\obj\Debug\net8.0-windows\WinFormsApp1ChecBox.dll
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\obj\Debug\net8.0-windows\refint\WinFormsApp1ChecBox.dll
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\obj\Debug\net8.0-windows\WinFormsApp1ChecBox.pdb
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\obj\Debug\net8.0-windows\WinFormsApp1ChecBox.genruntimeconfig.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1ChecBox\WinFormsApp1ChecBox\obj\Debug\net8.0-windows\ref\WinFormsApp1ChecBox.dll

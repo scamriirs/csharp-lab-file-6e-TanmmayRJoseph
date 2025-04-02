@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinFormsApp1BMI_Calculator/1.0.0": {
+        "runtime": {
+          "WinFormsApp1BMI_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp1BMI_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

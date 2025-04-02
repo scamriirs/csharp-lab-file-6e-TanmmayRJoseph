@@ -1,0 +1,17 @@
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\bin\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.exe
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\bin\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.deps.json
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\bin\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.runtimeconfig.json
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\bin\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.dll
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\bin\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.pdb
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\obj\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.Form1.resources
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\obj\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.csproj.GenerateResource.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\obj\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\obj\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.AssemblyInfoInputs.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\obj\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.AssemblyInfo.cs
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\obj\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.csproj.CoreCompileInputs.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\obj\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.sourcelink.json
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\obj\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.dll
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\obj\Debug\net8.0-windows\refint\WinFormsApp1_ListBoxProgram.dll
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\obj\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.pdb
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\obj\Debug\net8.0-windows\WinFormsApp1_ListBoxProgram.genruntimeconfig.cache
+C:\Users\Tanmmay R Joseph\OneDrive\Desktop\C#\C#kaam\WinFormsApp1_ListBoxProgram\WinFormsApp1_ListBoxProgram\obj\Debug\net8.0-windows\ref\WinFormsApp1_ListBoxProgram.dll
